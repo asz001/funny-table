@@ -6,7 +6,7 @@ This is angular directive help to create table have a fixed header
 - @width: The table width, default is window width
 - @height: The table height, default is window height
 - @widthCell: The config for cell width of table
-- @rWidth: The table width reduce, The real width = width - rWidth
-- @rHeight: The table hieght reduce, The real hieght = hieght - rHieght
+- @rWidth: The real width = width - rWidth
+- @rHeight: The real hieght = hieght - rHieght
 
 Good luck to you!
